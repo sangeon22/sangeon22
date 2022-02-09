@@ -1,4 +1,7 @@
 Languages
+JAVA, Python ... 
+
+Spring SpringBoot ReactNative
 
 Tools
 
