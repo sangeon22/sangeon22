@@ -1,7 +1,19 @@
 
 # Eonion's Develop GitHub
 
+
 ## 👋 Hi, 1ameoni!
+
+> aaa
+> aaa
+> aaa
+> aaa
+> aaa
+> aaa
+> aaa
+
+
+
 
 ## 🛠 Tech Stack
 
