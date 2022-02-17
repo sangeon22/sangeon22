@@ -11,7 +11,7 @@
 
 <br/><br>
 ## 🛠 Tech Stack
-<img src="https://img.shields.io/badge/JAVA-FF7800?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Nodejs-#339933?style=for-the-badge&logo=Nodejs&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/react Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-FF7800?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Nodedotjs-#339933?style=for-the-badge&logo=Nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/react Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 <br/><br> 
 Tech Blog: <a href="https://blog.naver.com/tkddjsdl33" target="_blank"><img src="https://img.shields.io/badge/NAVER BLOG-배경색?style=flat&logo=Naver&logoColor=white"/></a>
