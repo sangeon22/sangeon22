@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=1E82FF&height=200&section=header&text=Eonion's%20Develope%20Github&fontSize=40&fontColor=ffffff&fontAlign=30)
+ 
 ## 👋 Hi, 1ameoni!
-
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
 > as possible. The idea is that a
@@ -8,11 +8,7 @@
 > publishable as-is, as plain text, without
 > looking like it's been marked up with tags
 > or formatting instructions.
-
-
-
-
-
+ 
 ## 🛠 Tech Stack
 
 
