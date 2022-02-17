@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=1E82FF&height=180&section=header&text=Eonion's%20Develope%20Github&fontSize=40&fontColor=ffffff&fontAlign=30)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=1E80FF&height=180&section=header&text=Eonion's%20Develope%20Github&fontSize=40&fontColor=ffffff&fontAlign=30)
 ## 👋 Hi, 1ameoni!
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
