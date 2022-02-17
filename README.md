@@ -1,9 +1,9 @@
 
 # Eonion's Develop GitHub
 
-### _Hi, 1ameoni!_
+## _Hi, 1ameoni!_
 
-### Tech Stack
+## Tech Stack
 
 
 Languages
