@@ -3,8 +3,8 @@
 <div align=center>
   
   
-## 👋 Hi, 1ameoni!
-  
+# 👋 Hi, 1ameoni!
+  <br>
  **Java Web BackEnd Developer**가 되기 위해 노력하는 대학생입니다 :D
 
   
@@ -17,9 +17,9 @@
 <br>
 
 <div align=center>
+   <br>
   
-  
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 ☁️used as the main☁️
 <br>
 <br>  
