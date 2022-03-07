@@ -13,7 +13,6 @@
 ✅ WEB을 넘어 APP개발까지 **Hybrid Developer**가 되자!
 </div>
 
-<br/><br>
 
 ## 🛠 Tech Stack
 <p align="center">
