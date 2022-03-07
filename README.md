@@ -23,7 +23,8 @@
    <br>
   
 # 🛠 Tech Stack 🛠
-☁️used as the main☁️
+  <br>
+☁️Used as the main☁️
 <br>
 <br>  
 <img src="https://img.shields.io/badge/JAVA-FF7800?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp
@@ -38,7 +39,7 @@
 <br>
 <br>
 <br>
-☁️used at least once☁️
+☁️Used at least once☁️
 <br />
 <br />
 </div>
