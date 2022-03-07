@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00C3FF&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=52)
 
-## 👋 Hi, 1ameoni!
 <div align="center">
+## 👋 Hi, 1ameoni!
   
  **Java Web BackEnd Developer**가 되기 위해 노력하는 대학생입니다 :D
 
@@ -14,8 +14,8 @@
 </div>
 <br>
 
-## 🛠 Tech Stack
 <div align="center">
+## 🛠 Tech Stack
 ☁️used as the main☁️
 <br>
 <br>  
