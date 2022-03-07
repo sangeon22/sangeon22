@@ -12,7 +12,8 @@
 <br>
 <br>
 ✅ 새로운 기술트렌드에 맞춰 **변화하는 개발자**가 되자!
-
+<br>
+<br>
 ✅ WEB을 넘어 APP개발까지 **Hybrid Developer**가 되자!
 </div>
 <br>
