@@ -12,7 +12,7 @@
 <br/><br>
 ## 🛠 Tech Stack
 <p align="center">
-💡used as the main💡
+☁️used as the main☁️
 <br>
 <br>  
 <img src="https://img.shields.io/badge/JAVA-FF7800?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp
@@ -26,9 +26,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp 
 <br>
 <br>
-💡used at least once💡
 <br>
+☁️used at least once☁️
 <br>
+
 </p>
 <br/><br> 
 <br/><br> 
