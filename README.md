@@ -3,7 +3,7 @@
 ## 👋 Hi, 1ameoni!
 <div align="center">
   
-✅ **Java Web BackEnd Developer**가 되기 위해 노력하는 대학생입니다 :D
+ **Java Web BackEnd Developer**가 되기 위해 노력하는 대학생입니다 :D
 
   
 ✅ 오늘보다 내일 더 **성장하는 개발자**가 되자!
