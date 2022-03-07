@@ -18,7 +18,7 @@
 </div>
 <br>
 
-<div align=center>
+<div align=center style="white-space:pre;">
    <br>
   
 # 🛠 Tech Stack 🛠
