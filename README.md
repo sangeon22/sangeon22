@@ -5,10 +5,8 @@
   
 # 🐾 About Me 🐾
   <br>
-  👋 Hi, 1ameoni!
-  
   <br>
- **Java Web BackEnd Developer**가 되기 위해 노력하는 대학생입니다 :D
+ ** 👋 Hi, 1ameoni! Java Web BackEnd Developer**가 되기 위해 노력하는 대학생입니다 :D
 
   
 ✅ 노력해서 오늘보다 내일 더 **성장하는 개발자**가 되자!
