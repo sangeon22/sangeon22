@@ -11,8 +11,9 @@
 
 
 <br/><br>
-<p align="center">
+
 ## 🛠 Tech Stack
+<p align="center">
 ☁️used as the main☁️
 <br>
 <br>  
