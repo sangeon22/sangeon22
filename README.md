@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00C3FF&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=52)
 
-<div align=center>
+<div align=center style="white-space:pre;">
   
   
 # 🐾 About Me 🐾
@@ -18,7 +18,8 @@
 </div>
 <br>
 
-<div align=center style="white-space:pre;">
+
+<div align=center>
    <br>
   
 # 🛠 Tech Stack 🛠
