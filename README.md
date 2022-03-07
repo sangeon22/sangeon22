@@ -4,8 +4,9 @@
   
   
 # 🐾 About Me 🐾
-   <br>
+  <br>
   👋 Hi, 1ameoni!
+  
   <br>
  **Java Web BackEnd Developer**가 되기 위해 노력하는 대학생입니다 :D
 
