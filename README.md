@@ -12,7 +12,7 @@
 
 ✅ WEB을 넘어 APP개발까지 **Hybrid Developer**가 되자!
 </div>
-
+<br>
 
 ## 🛠 Tech Stack
 <p align="center">
@@ -35,9 +35,7 @@
 <br>
 
 </p>
-<br/><br> 
-<br/><br> 
 
-<br/><br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangeon22&layout=compact&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeon22&show_icons=true&theme=github_dark)
