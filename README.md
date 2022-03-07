@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00C3FF&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=52)
 
-<p align=center>
-  
+
+<center>
   
 # 🐾 About Me 🐾
   <br>
@@ -15,7 +15,7 @@
 ✅ 새로운 기술트렌드에 맞춰 **변화하는 개발자**가 되자!
 
 ✅ WEB을 넘어 APP개발까지 **Hybrid Developer**가 되자!
-</p>
+</center>
 <br>
 
 
