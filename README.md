@@ -13,6 +13,7 @@
 ## 🛠 Tech Stack
 <p align="center">
 💡used as the main💡
+<br>
 <img src="https://img.shields.io/badge/JAVA-FF7800?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white"></a>&nbsp
@@ -24,6 +25,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp 
 <br> 
 💡used at least once💡
+<br>
 </p>
 <br/><br> 
 <br/><br> 
