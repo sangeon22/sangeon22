@@ -36,6 +36,6 @@
 <br>
 <br>
 <hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangeon22&layout=compact&theme=github_dark)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeon22&show_icons=true&theme=github_dark)
+| <a href="https://github.com/sangeon22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sangeon22&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Eonion's github stats" /></a> | <a href="https://github.com/sangeon22/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeon22&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 </div>
