@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00C3FF&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=52)
 ## 👋 Hi, 1ameoni!
-> Java Web BackEnd Developer가 되기 위해 노력하는 대학생입니다 :D
-> 오늘보다 내일 더 성장하는 개발자가 되자!
-> 새로운 기술트렌드에 맞춰 변화하는 개발자가 되자!
-> WEB을 넘어 APP 개발자까지 Hybrid Developer가 되자!
+Java Web BackEnd Developer가 되기 위해 노력하는 대학생입니다 :D
+오늘보다 내일 더 성장하는 개발자가 되자!
+새로운 기술트렌드에 맞춰 변화하는 개발자가 되자!
+WEB을 넘어 APP 개발자까지 Hybrid Developer가 되자!
 
 
 <br/><br>
