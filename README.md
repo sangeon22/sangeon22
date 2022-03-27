@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=00C3FF&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=52)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=00C3FF&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=51)
 
 
 <div align=center>
