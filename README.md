@@ -3,7 +3,7 @@
 
 <div align=center>
   
-# 🐾 About Me 🐾
+### 🐾 About Me 🐾
   <br>
  👋 Hi, 1ameoni! Java Web BackEnd Developer가 되기 위해 노력하는 대학생입니다 :D
 <br>
@@ -22,7 +22,7 @@
 <div align=center>
    <br>
   
-# 🛠 Tech Stack 🛠
+### 🛠 Tech Stack 🛠
   <br>
 ☁️Used as the main☁️
 <br>
@@ -47,7 +47,7 @@
 <br />
 <hr>
 <div align="center">
-
+### Stats and Most Used Langauges
 |![kmsbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeon22)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangeon22&layout=compact&theme=buefy)](https://github.com/sangeon22)|
 | ------------- | ------------- |
 </div>
