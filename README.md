@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=00C3FF&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=51)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=30,96b8dc,3ea5db&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=51)
 
 
-<div align=left>
+<div align=center>
   
 ## 🐾 About Me 🐾
   <br>
@@ -19,7 +19,7 @@
 <br>
 
 
-<div align=left>
+<div align=center>
    <br>
   
 ## 🛠 Tech Stack 🛠
@@ -47,7 +47,7 @@
 <br />
 
 ### Stats and Most Used Langauges
-<div align=left>
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=sangeon22&hide=stars&count_private=true&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeon22&langs_count=4&layout=compact&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
 </div>
