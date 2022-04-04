@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=B9FFFF&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=51)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=66F7F0&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=51)
 
 
 <div align=center>
@@ -45,7 +45,11 @@
 <br />
 <br />
 </div>
+<div align=center>
 
+## Stats and Most Used Langauges
+
+</div>
 <div align=center>
 ## Stats and Most Used Langauges
 <br>  
