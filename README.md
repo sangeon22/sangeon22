@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🧅SangEon_AN&fontSize=45&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🧅SangEon_AN&fontSize=35&section=header)
 ### 🌱 About Me
 
 - <a href="https://blog.naver.com/tkddjsdl33"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://instagram.com/1ameoni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="tkddjsdl33@hanmail.net"><img src="https://img.shields.io/badge/tkddjsdl33@hanmail.net-F4C51C?style=flat-square&logo=Instagram&logoColor=white"/></a>
