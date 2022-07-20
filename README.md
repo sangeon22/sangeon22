@@ -1,6 +1,5 @@
 
-# Hello, I'm SangEon👋 
-
+# Hello, I'm SangEon👋
 
 ### 🌱 About Me
 
@@ -10,11 +9,12 @@
 
 ✅ WEB, APP을 정복하고 IT스타트업 CEO가 되자!
 
-✅ Blog : https://blog.naver.com/tkddjsdl33
+<br>
+<a href="tkddjsdl33@hanmail.net"><img src="https://img.shields.io/badge/tkddjsdl33@hanmail.net-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
+<a href="https://blog.naver.com/tkddjsdl33"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://instagram.com/1ameoni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-✅ Email : tkddjsdl33@hanmail.net 
 
-✅ Instagram : https://instagram.com/1ameoni
+
 
 <hr>
 
