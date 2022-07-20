@@ -10,34 +10,38 @@
 
 ✅ WEB, APP을 정복하고 IT스타트업 CEO가 되자!
 
-✅ 📝 https://blog.naver.com/tkddjsdl33
+✅ Blog : https://blog.naver.com/tkddjsdl33
 
-✅ 📫 tkddjsdl33@hanmail.net 
+✅ Email : tkddjsdl33@hanmail.net 
+
+✅ Instagram : https://instagram.com/1ameoni
 
 <hr>
 
   
 ### 🛠 Tech Stack
+
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,Mysql)](https://github.com/kijepark)
+
 ☁️Used as the main☁️
 <br>
 - Language :
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js%20-%2314354C.svg?&style=flat&logo=Node.js&logoColor=yellow)
 
 - Backend :
 ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
 ![Springboot](https://img.shields.io/badge/Springboot%20-%236DB33F.svg?&style=flat&logo=Springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 ![React](https://img.shields.io/badge/Reactnative-%2300f.svg?&style=flat&logo=React&logoColor=white)
 
 
-☁️Used at least once☁️
-<br />
-<br />
-<br />
-<br />
 
+- Frontend :
+![Html](https://img.shields.io/badge/Html-%2300f.svg?&style=flat&logo=Html&logoColor=white)
+![Css](https://img.shields.io/badge/Css-%2300f.svg?&style=flat&logo=Css&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%2300f.svg?&style=flat&logo=Thymeleaf&logoColor=white)
 
 
 <hr>
