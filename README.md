@@ -10,9 +10,7 @@
 ✅ WEB, APP을 정복하고 IT스타트업 CEO가 되자!
 
 <br>
-<a href="https://blog.naver.com/tkddjsdl33"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://instagram.com/1ameoni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/tkddjsdl33@hanmail.net-#FFE01B?style=flat-square&logo=Gmail&logoColor=white"/></a> 
-
+<a href="https://blog.naver.com/tkddjsdl33"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://instagram.com/1ameoni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="tkddjsdl33@hanmail.net"><img src="https://img.shields.io/badge/tkddjsdl33@hanmail.net-F4C51C?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
 
