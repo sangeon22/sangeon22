@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=61DAFB&height=180&section=header&text=Eonion's%20Development%20Github&fontSize=40&fontColor=ffffff&fontAlign=51)
 
 
-<div align=center>
+<div align=left>
   
-## 🌱 About Me
+### 🌱 About Me
   <br>
  👋 Hi, 1ameoni! Java Web BackEnd Developer가 되기 위해 노력하는 대학생입니다 :D
 <br>
@@ -19,10 +19,10 @@
 <br>
 
 
-<div align=center>
+<div align=left>
    <br>
   
-## 🛠 Tech Stack
+### 🛠 Tech Stack
   <br>
 ☁️Used as the main☁️
 <br>
@@ -44,22 +44,25 @@
 <br />
 <br />
 </div>
-<div align=center>
-## 🏆Awards
+<div align=left>
+
+### 🏆 Awards
 
 - 캡스톤 디자인 대회 최우수팀 선정 (2021.12)
+<br>  
 
-## 👨🏻‍🎓Education
+### 👨🏻‍🎓 Education
 
 - 정보처리기사 자격증 취득 (2021.06.02)
 - OO대학교 소프트웨어학과 졸업 (2016.02.29~2022.02.18)
 
+<br>  
 
-## ⚡ Stats and Most Used Langauges
+### ⚡ Stats and Most Used Langauges
 
   
 </div>
-<div align=center>
+<div align=left>
 <br>  
   <img src="https://github-readme-stats.vercel.app/api?username=sangeon22&hide=stars&count_private=true&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeon22&langs_count=4&layout=compact&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
