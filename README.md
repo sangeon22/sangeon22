@@ -15,7 +15,7 @@
   
 ### 🛠 Tech Stack
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,Mysql)]
+![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,Mysql)
 
 ☁️Used as the main☁️
 <br>
