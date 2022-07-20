@@ -45,6 +45,15 @@
 <br />
 </div>
 <div align=center>
+## 🏆Awards
+
+- 캡스톤 디자인 대회 최우수팀 선정 (2021.12)
+
+## 👨🏻‍🎓Education
+
+- 정보처리기사 자격증 취득 (2021.06.02)
+- OO대학교 소프트웨어학과 졸업 (2016.02.29~2022.02.18)
+
 
 ## ⚡ Stats and Most Used Langauges
 
