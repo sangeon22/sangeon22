@@ -1,6 +1,4 @@
-
-# Hello, I'm SangEon👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🧅SangEon_AN&fontSize=45&section=header)
 ### 🌱 About Me
 
 ✅ 노력해서 오늘보다 내일 더 성장하는 개발자가 되자!
@@ -94,3 +92,5 @@
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkddjsdl33">
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
