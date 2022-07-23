@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🧅SangEon_AN&fontSize=35&section=header)
 ### 🌱 About Me
 
-- <a href="https://blog.naver.com/tkddjsdl33"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://instagram.com/1ameoni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="tkddjsdl33@hanmail.net"><img src="https://img.shields.io/badge/tkddjsdl33@hanmail.net-F4C51C?style=flat-square&logo=Instagram&logoColor=white"/></a>
+- <a href="https://blog.naver.com/tkddjsdl33"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://instagram.com/1ameoni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="tkddjsdl33@hanmail.net"><img src="https://img.shields.io/badge/tkddjsdl33@hanmail.net-F4C51C?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 - 노력해서 오늘보다 내일 더 성장하는 개발자가 되자!
 
@@ -74,6 +74,7 @@
 - 내일개발을 위한 실무능력향상 프로그램 교육 (2020-11)
 - 소프트웨어 안전 국제 컨퍼런스 2020 (2020-12)
 - 점핏 X 교보문고 개발자 로드맵 북콘서트 오프라인 참석 (2022-06)
+- 점핏 X 교보문고 개발 전공자 북콘서트 오프라인 참석 예정 (2022-08)
 
   이렇게 적어두면 앞으로 많이 참석하려 할테니 README에 작성
 
