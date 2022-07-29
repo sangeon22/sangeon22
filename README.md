@@ -3,7 +3,7 @@
 
 - <a href="https://blog.naver.com/tkddjsdl33"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://instagram.com/1ameoni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="tkddjsdl33@hanmail.net"><img src="https://img.shields.io/badge/tkddjsdl33@hanmail.net-F4C51C?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-- 노력해서 오늘보다 내일 더 성장하는 개발자가 되자!
+- 오늘보다 내일 더 성장하는 개발자가 되자!
 
 - 새로운 기술 트렌드에 맞춰 발전하는 개발자가 되자!
 
