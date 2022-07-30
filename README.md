@@ -22,7 +22,7 @@
 - Language :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js%20-%2314354C.svg?&style=flat&logo=Node.js&logoColor=yellow)
+
 
 - Backend :
 ![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white)
@@ -35,6 +35,7 @@
 - Frontend :
 ![Html](https://img.shields.io/badge/Html-%2300f.svg?&style=flat&logo=Html&logoColor=white)
 ![Css](https://img.shields.io/badge/Css-%2300f.svg?&style=flat&logo=Css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=flat&logo=JavaScript&logoColor=yellow)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%2300f.svg?&style=flat&logo=Thymeleaf&logoColor=white)
 
 
