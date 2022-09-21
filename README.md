@@ -6,10 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&pause=500000&color=FAFFC6&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&width=450&lines=%E3%80%80%E3%80%80-+%EB%8B%A8%EC%88%9C%ED%9E%88+%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94+%EA%B2%83%EC%9D%B4+%EC%95%84%EB%8B%8C+%EA%B5%AC%EC%A1%B0%EC%99%80+%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC%EC%97%90+%EC%A7%91%EC%A4%91%ED%95%98%EC%9E%90!)](https://git.io/typing-svg)
 
-🧅 Blog 🧅
-
-  [![Tech Blog Badge](https://img.shields.io/badge/-어니언%20개발노트-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33) 
-
+  [![Tech Blog Badge](https://img.shields.io/badge/-어니언%20개발노트-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33) [![Tech Blog Badge](https://img.shields.io/badge/-1ameoni-black?style=for-the-badge&logo=instagram&link=https://ws-pace.tistory.com/)](https://www.instagram.com/1ameoni) 
 </div>
 
 <hr>
