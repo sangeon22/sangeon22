@@ -11,7 +11,7 @@
 
 <hr>
 
-### 🛠 Technology stack used as the main
+### 🛠 Tech Stack (used as the main)
 
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,Mysql)
 - Language :
