@@ -1,24 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&text=🧅SangEon_AN&fontSize=35&section=header)
-### 🌱 About Me
+<div align=center>
 
-- <a href="https://blog.naver.com/tkddjsdl33"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> <a href="https://instagram.com/1ameoni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="tkddjsdl33@hanmail.net"><img src="https://img.shields.io/badge/tkddjsdl33@hanmail.net-F4C51C?style=flat-square&logo=Gmail&logoColor=white"/></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dongle&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=455&lines=%EB%A7%8C%EB%82%98+%EB%B5%99%EA%B2%8C+%EB%90%98%EC%96%B4+%EB%B0%98%EA%B0%91%EC%8A%B5%EB%8B%88%EB%8B%A4.+%EC%9B%B9+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EC%95%88%EC%83%81%EC%96%B8%EC%9E%85%EB%8B%88%EB%8B%A4!)](https://git.io/typing-svg)
 
-- 목표가 아닌 시스템을 갖추어 어제보다 오늘 더 성장하자!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&pause=500000&color=FAFFC6&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&width=450&lines=%E3%80%80%E3%80%80-+%EC%8A%A4%EB%AA%B0%EB%B9%85+%EC%82%AC%EC%9D%B4%ED%81%B4%EC%9D%84+%ED%86%B5%ED%95%9C+%EC%8B%9C%EC%8A%A4%ED%85%9C%ED%99%94%EB%A1%9C+%EC%96%B4%EC%A0%9C%EB%B3%B4%EB%8B%A4+%EC%98%A4%EB%8A%98+%EB%8D%94+%EC%84%B1%EC%9E%A5%ED%95%98%EC%9E%90!)](https://git.io/typing-svg)
 
-- 단순히 구현하는 것이 아닌 구조와 동작 원리에 집중하자!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&pause=500000&color=FAFFC6&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&width=450&lines=%E3%80%80%E3%80%80-+%EB%8B%A8%EC%88%9C%ED%9E%88+%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94+%EA%B2%83%EC%9D%B4+%EC%95%84%EB%8B%8C+%EA%B5%AC%EC%A1%B0%EC%99%80+%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC%EC%97%90+%EC%A7%91%EC%A4%91%ED%95%98%EC%9E%90!)](https://git.io/typing-svg)
 
-- WEB, APP을 정복하고 IT스타트업 CEO가 되자!
+🧅 Blog 🧅
 
+  [![Tech Blog Badge](https://img.shields.io/badge/-어니언%20개발노트-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33) 
+
+</div>
 
 <hr>
 
-  
-### 🛠 Tech Stack
+### 🛠 Technology stack used as the main
 
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,Mysql)
-
-☁️Used as the main☁️
-<br>
 - Language :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
@@ -45,13 +43,9 @@
   <summary><strong>🏆 Awards</strong></summary>
 
 - 정보처리기사 자격증 취득 (2021-06)  
-- 캡스톤 디자인 대회 최우수팀 선정 (2021.12)
-- 2019학년도 2학년 1학기 학년학과차석 (성적장학금)
-- 2019학년도 2학년 2학기 성적우수 (성적장학금)
-- 2020학년도 3학년 1학기 학년학과수석 (수석장학금)
-- 2020학년도 3학년 2학기 학년학과수석 (수석장학금)
-- 2021학년도 4학년 1학기 성적우수 (성적장학금)
-- 2021학년도 4학년 2학기 성적우수 (성적장학금)
+- 캡스톤 디자인 대회 최우수팀 선정 (2021-12)
+- 소프트웨어과 졸업 평균학점 4.04 / 4.5 (2021-02)
+
 </details>
 
 <br>
@@ -59,7 +53,7 @@
 <details>
   <summary><strong>👨🏻‍🎓 Education</strong></summary>
   
-- 소프트웨어학과 졸업 (2016-02 ~ 2022-02)
+- 소프트웨어과 졸업 (2016-02 ~ 2022-02)
 - [메가스터디IT신촌] JAVA1, JAVA2 방학특강 (2020-07 ~ 2020-08)
 - [codeit] Git으로 배우는 버전 관리 수료 (2021-07)
 - [Fastcampus] 한 번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 수료 (2022-05) 
@@ -76,7 +70,7 @@
 - 내일개발을 위한 실무능력향상 프로그램 교육 (2020-11)
 - 소프트웨어 안전 국제 컨퍼런스 2020 (2020-12)
 - 점핏 X 교보문고 개발자 로드맵 북콘서트 오프라인 참석 (2022-06)
-- 점핏 전공 개발자 취업 콘서트 오프라인 참석 예정 (2022-08)
+- 점핏 전공 개발자 취업 콘서트 오프라인 참석 (2022-08)
 
   이렇게 적어두면 앞으로 많이 참석하려 할테니 README에 작성
 
