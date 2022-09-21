@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Pen+Script&pause=500000&color=FAFFC6&center=%EC%A7%84%EC%8B%A4&vCenter=%EC%A7%84%EC%8B%A4&width=450&lines=%E3%80%80%E3%80%80-+%EB%8B%A8%EC%88%9C%ED%9E%88+%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94+%EA%B2%83%EC%9D%B4+%EC%95%84%EB%8B%8C+%EA%B5%AC%EC%A1%B0%EC%99%80+%EB%8F%99%EC%9E%91%EC%9B%90%EB%A6%AC%EC%97%90+%EC%A7%91%EC%A4%91%ED%95%98%EC%9E%90!)](https://git.io/typing-svg)
 
-  [![Tech Blog Badge](https://img.shields.io/badge/-어니언%20개발노트-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33) [![Tech Blog Badge](https://img.shields.io/badge/-1ameoni-black?style=for-the-badge&logo=instagram&link=https://ws-pace.tistory.com/)](https://www.instagram.com/1ameoni) 
+  [![Tech Blog Badge](https://img.shields.io/badge/-어니언개발노트-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33) [![Tech Blog Badge](https://img.shields.io/badge/-1ameoni-black?style=for-the-badge&logo=instagram&link=https://ws-pace.tistory.com/)](https://www.instagram.com/1ameoni) 
 </div>
 
 <hr>
@@ -40,8 +40,8 @@
   <summary><strong>🏆 Awards</strong></summary>
 
 - 정보처리기사 자격증 취득 (2021-06)  
-- 캡스톤 디자인 대회 최우수팀 선정 (2021-12)
-- 소프트웨어과 졸업 평균학점 4.04 / 4.5 (2021-02)
+- 캡스톤디자인 최우수팀 선정 (2021-12)
+- 소프트웨어과 졸업 평균학점 4.04 / 4.5 (2022-02)
 
 </details>
 
@@ -54,7 +54,7 @@
 - [메가스터디IT신촌] JAVA1, JAVA2 방학특강 (2020-07 ~ 2020-08)
 - [codeit] Git으로 배우는 버전 관리 수료 (2021-07)
 - [Fastcampus] 한 번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 수료 (2022-05) 
-- [Inflearn] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 학습중 (ing)
+- [Inflearn] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 학습중 (2022-09 ~ ing)
 </details>
 
 <br>
