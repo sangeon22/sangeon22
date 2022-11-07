@@ -14,6 +14,8 @@
 
 ### 🛠 Tech Stack (used as the main)
 
+<div align=center>
+  
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,Spring,Mysql)
 
 |분류|종류|
@@ -22,10 +24,7 @@
 |Backend|![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![Springboot](https://img.shields.io/badge/Springboot%20-%236DB33F.svg?&style=flat&logo=Springboot&logoColor=white) ![JSP/Servlet](https://img.shields.io/badge/JSP/Servlet%20-%236DB33F.svg?&style=flat&logo=JSP/Servlet&logoColor=white) ![SpringSecuriy](https://img.shields.io/badge/SpringSecuriy%20-%236DB33F.svg?&style=flat&logo=SpringSecurity&logoColor=white) <br> ![JDBC](https://img.shields.io/badge/JDBC-9cf.svg?&style=flat&logo=JDBC&logoColor=white) ![Mybatis](https://img.shields.io/badge/Mybatis%20-9cf.svg?&style=flat&logo=JSP/Mybatis&logoColor=white) ![SpringDataJPA](https://img.shields.io/badge/SpringDataJPA%20-9cf.svg?&style=flat&logo=JSP/SpringDataJPA&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/Mysql-003545.svg?&style=flat&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> ![OracleDB](https://img.shields.io/badge/OracleDB-003545.svg?&style=flat&logo=Oracle&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-informational.svg?&style=flat&logo=Postman&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-informational.svg?&style=flat&logo=ApacheTomcat&logoColor=white)|
 |Frontend|![Html](https://img.shields.io/badge/Html-%2314354C.svg?&style=flat&logo=Html&logoColor=white) ![Css](https://img.shields.io/badge/Css-%2314354C.svg?&style=flat&logo=Css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=flat&logo=JavaScript&logoColor=yellow) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%2314354C.svg?&style=flat&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/Reactnative-%2314354C.svg?&style=flat&logo=React&logoColor=white)|
 
-
-
-
-
+</div>
 
 <hr>
 
