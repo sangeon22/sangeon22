@@ -66,9 +66,6 @@
 </details>
 
 <hr>
-
-### ⚡ Stats and Most Used Langauges
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=sangeon22&hide=stars&count_private=true&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
