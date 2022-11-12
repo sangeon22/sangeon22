@@ -73,7 +73,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=sangeon22&hide=stars&count_private=true&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeon22&langs_count=4&layout=compact&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkddjsdl33">
-
+  
 </div>
 
