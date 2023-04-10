@@ -21,8 +21,8 @@
 |분류|종류|
 |------|---|
 |Language|![Java8](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=Java&logoColor=white) ![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)|
-|Backend|![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![Springboot](https://img.shields.io/badge/Springboot%20-%236DB33F.svg?&style=flat&logo=Springboot&logoColor=white) ![JSP/Servlet](https://img.shields.io/badge/JSP/Servlet%20-%236DB33F.svg?&style=flat&logo=JSP/Servlet&logoColor=white) ![SpringSecuriy](https://img.shields.io/badge/SpringSecuriy%20-%236DB33F.svg?&style=flat&logo=SpringSecurity&logoColor=white) <br> ![JDBC](https://img.shields.io/badge/JDBC-9cf.svg?&style=flat&logo=JDBC&logoColor=white) ![Mybatis](https://img.shields.io/badge/Mybatis%20-9cf.svg?&style=flat&logo=JSP/Mybatis&logoColor=white) ![SpringDataJPA](https://img.shields.io/badge/SpringDataJPA%20-9cf.svg?&style=flat&logo=JSP/SpringDataJPA&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/Mysql-003545.svg?&style=flat&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> ![OracleDB](https://img.shields.io/badge/OracleDB-003545.svg?&style=flat&logo=Oracle&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-informational.svg?&style=flat&logo=Postman&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/ApacheTomcat-informational.svg?&style=flat&logo=ApacheTomcat&logoColor=white)|
-|Frontend|![Html](https://img.shields.io/badge/Html-%2314354C.svg?&style=flat&logo=Html&logoColor=white) ![Css](https://img.shields.io/badge/Css-%2314354C.svg?&style=flat&logo=Css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=flat&logo=JavaScript&logoColor=yellow) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%2314354C.svg?&style=flat&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/Reactnative-%2314354C.svg?&style=flat&logo=React&logoColor=white)|
+|Backend|![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![Springboot](https://img.shields.io/badge/Springboot%20-%236DB33F.svg?&style=flat&logo=Springboot&logoColor=white) ![JSP/Servlet](https://img.shields.io/badge/JSP/Servlet%20-%236DB33F.svg?&style=flat&logo=JSP/Servlet&logoColor=white) ![SpringSecuriy](https://img.shields.io/badge/SpringSecuriy%20-%236DB33F.svg?&style=flat&logo=SpringSecurity&logoColor=white) <br> ![JDBC](https://img.shields.io/badge/JDBC-9cf.svg?&style=flat&logo=JDBC&logoColor=white) ![Mybatis](https://img.shields.io/badge/Mybatis%20-9cf.svg?&style=flat&logo=JSP/Mybatis&logoColor=white) ![SpringDataJPA](https://img.shields.io/badge/SpringDataJPA%20-9cf.svg?&style=flat&logo=JSP/SpringDataJPA&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/Mysql-003545.svg?&style=flat&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> ![MSSQL](https://img.shields.io/badge/MSSQL-003545.svg?&style=flat&logo=MSSQL&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-informational.svg?&style=flat&logo=Postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-informational.svg?&style=flat&logo=Swagger&logoColor=white)
+|Frontend|![Html](https://img.shields.io/badge/jQuery-%2314354C.svg?&style=flat&logo=jQuery&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=flat&logo=JavaScript&logoColor=yellow) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%2314354C.svg?&style=flat&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/Reactnative-%2314354C.svg?&style=flat&logo=React&logoColor=white)|
 
 </div>
 
@@ -31,11 +31,10 @@
 <details>
   <summary><strong>🏆 Awards</strong></summary>
 
-- SQL 개발자(SQLD) 취득 (2022-11)
-- 소프트웨어과 졸업 평균학점 4.04 / 4.5 (2022-02)
-- 캡스톤디자인 최우수팀 선정 (2021-12)
 - 정보처리기사 취득 (2021-06)
-
+- 캡스톤디자인 최우수팀 선정 (2021-12)
+- 소프트웨어과 졸업 평균학점 4.04 / 4.5 (2022-02)
+- SQL 개발자(SQLD) 취득 (2022-11)
 </details>
 
 <br>
@@ -46,8 +45,9 @@
 - 소프트웨어과 졸업 (2016-02 ~ 2022-02)
 - [메가스터디IT신촌] JAVA1, JAVA2 방학특강 (2020-07 ~ 2020-08)
 - [codeit] Git으로 배우는 버전 관리 수료 (2021-07)
-- [Fastcampus] 한 번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 수료 (2022-05) 
-- [Inflearn] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 학습중 (2022-09 ~ 중단)
+- [Fastcampus] 한 번에 끝내는 Java/Spring 웹 개발 마스터 초격차 패키지 수료 (2022-05)
+- [Inflearn] 모든 개발자를 위한 HTTP 웹 기본 지식 (출퇴근길) (2023-03)
+- [Inflearn] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 학습중 (2023-04 ~ )
 </details>
 
 <br>
@@ -61,8 +61,6 @@
 - 소프트웨어 안전 국제 컨퍼런스 2020 (2020-12)
 - 점핏 X 교보문고 개발자 로드맵 북콘서트 오프라인 참석 (2022-06)
 - 점핏 전공 개발자 취업 콘서트 오프라인 참석 (2022-08)
-
-  이렇게 적어두면 앞으로 많이 참석하려 할테니 README에 작성
 
 </details>
 
