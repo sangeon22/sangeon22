@@ -1,19 +1,36 @@
-<div align=center>
+
+<h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
+
+<p align="center">
+  <img src="https://github.com/sangeon22/sangeon22/assets/86394597/08fcfc90-4c87-408b-b649-5a8ad437f5b3" width=500px title="Hi, nice to meet you!">
+
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="80" height="80" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="80" height="80" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
+  </div>
   
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="icon" width="80" height="80" />
+    <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="icon" width="80" height="80" />
+  </div>
+   
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="80" height="80" /> 
+    <img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="icon" width="80" height="80" />
+  </div>
+   
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="icon" width="80" height="80" />
+    <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="icon" width="80" height="80" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="80" height="80" />
+  </div>
+  
+  [![Tech Blog Badge](https://img.shields.io/badge/-어니언개발노트-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeon22)](https://github.com/anuraghazra/github-readme-stats)
 
- [![Tech Blog Badge](https://img.shields.io/badge/-어니언개발노트-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33)
+</p>
 
-</div>
 
-### 🛠 Tech Stack (used as the main)
-
-<div align=center>
-
-|분류|종류|
-|------|---|
-|Language|![Java8](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=Java&logoColor=white) ![Python3](https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)|
-|Backend|![Spring](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=flat&logo=spring&logoColor=white) ![Springboot](https://img.shields.io/badge/Springboot%20-%236DB33F.svg?&style=flat&logo=Springboot&logoColor=white) ![JSP/Servlet](https://img.shields.io/badge/JSP/Servlet%20-%236DB33F.svg?&style=flat&logo=JSP/Servlet&logoColor=white) ![SpringSecuriy](https://img.shields.io/badge/SpringSecuriy%20-%236DB33F.svg?&style=flat&logo=SpringSecurity&logoColor=white) <br> ![JDBC](https://img.shields.io/badge/JDBC-9cf.svg?&style=flat&logo=JDBC&logoColor=white) ![Mybatis](https://img.shields.io/badge/Mybatis%20-9cf.svg?&style=flat&logo=JSP/Mybatis&logoColor=white) ![SpringDataJPA](https://img.shields.io/badge/SpringDataJPA%20-9cf.svg?&style=flat&logo=JSP/SpringDataJPA&logoColor=white) <br> ![MySQL](https://img.shields.io/badge/Mysql-003545.svg?&style=flat&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> ![MSSQL](https://img.shields.io/badge/MSSQL-003545.svg?&style=flat&logo=MSSQL&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-informational.svg?&style=flat&logo=Postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-informational.svg?&style=flat&logo=Swagger&logoColor=white)
-|Frontend|![Html](https://img.shields.io/badge/jQuery-%2314354C.svg?&style=flat&logo=jQuery&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%2314354C.svg?&style=flat&logo=JavaScript&logoColor=yellow) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%2314354C.svg?&style=flat&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/Reactnative-%2314354C.svg?&style=flat&logo=React&logoColor=white)|
-
-</div>
 
