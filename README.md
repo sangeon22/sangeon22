@@ -2,10 +2,8 @@
 <h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
 
 <div align="center">
-  
-![test (1) (1)](https://github.com/sangeon22/sangeon22/assets/86394597/1af9ff01-e61f-496d-8c4c-fb0a85f1f403)
 
-
+<img src="https://github.com/sangeon22/sangeon22/assets/86394597/1af9ff01-e61f-496d-8c4c-fb0a85f1f403" width=500px title="Hi, nice to meet you!">
   
   [![Tech Blog Badge](https://img.shields.io/badge/-어니언개발노트-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33)
 
