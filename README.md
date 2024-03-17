@@ -1,6 +1,5 @@
 
-<h2 align="center">무한한 긍정의 힘을 통해 진화해나가고 있는 개발자 안상언입니다.</h2>
-
+<h2 align="center">용기의 문장을 통해 진화하고 있는 개발자 안상언입니다.</h2>
 </br>
 
 <div align="center">
