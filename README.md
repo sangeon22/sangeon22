@@ -1,11 +1,16 @@
 
-<h1 align="center">Hi there! Thank you for visiting my profile :D</h1>
+<h2 align="center">무한한 긍정의 힘을 통해 진화해나가고 있는 개발자 안상언입니다.</h2>
+
+</br>
 
 <div align="center">
 
-<img src="https://github.com/sangeon22/sangeon22/assets/86394597/1af9ff01-e61f-496d-8c4c-fb0a85f1f403" width=500px title="Hi, nice to meet you!">
+  <img src="https://github.com/sangeon22/sangeon22/assets/86394597/1af9ff01-e61f-496d-8c4c-fb0a85f1f403" width=500px title="Hi, nice to meet you!">
   
-  [![Tech Blog Badge](https://img.shields.io/badge/-어니언개발노트-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33)
+  </br>
+  </br>
+  
+  [![Tech Blog Badge](https://img.shields.io/badge/-네이버_개발_블로그_바로가기-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33)
 
   
   </br>
@@ -29,9 +34,6 @@
   </div>
   
   </br>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeon22)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 
