@@ -1,13 +1,8 @@
 
-<h2 align="center">긍정의 힘을 통해 진화하고 있는 개발자 안상언입니다.</h2>
+<h4 align="center">서버 개발자 안상언입니다.</h4>
 </br>
 
 <div align="center">
-
-  <img src="https://github.com/sangeon22/sangeon22/assets/86394597/1af9ff01-e61f-496d-8c4c-fb0a85f1f403" width=500px title="Hi, nice to meet you!">
-  
-  </br>
-  </br>
   
   [![Tech Blog Badge](https://img.shields.io/badge/-네이버_개발_블로그_바로가기-black?style=for-the-badge&logo=naver&link=https://ws-pace.tistory.com/)](https://blog.naver.com/tkddjsdl33)
 
